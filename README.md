@@ -4,7 +4,7 @@ Telegram bot created to get Alerts from Ensemble on your mobile phone
 
 ## Steps to add to your Ensemble Production
 
-1. Create your bot using BotFatner (https://telegram.me/BotFatner) and get a token
+1. Create your bot using BotFatner (https://telegram.me/BotFather) and get a token
 2. Create client SSL configuration in Management Portal  
 3. Import classes (Telegram package)
 4. Create Lookup Table in your Ensemble namespace. Add one or more records. Use phone number (without "+" prefix) as a key.
